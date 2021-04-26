@@ -7,4 +7,4 @@ const msg = getNotes()
 console.log(msg)
 
 console.log(validator.isEmail('laura@gmail.com'))
-console.log(chalk.blue('Hello', 'World!', 'Foo', 'bar', 'biz', 'baz'))
+console.log(chalk.green('Hello'))
